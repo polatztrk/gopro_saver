@@ -8,8 +8,7 @@ This Python script is designed to organize and rename GoPro video files. It scan
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 
 GoPro cameras typically generate video files with non-descriptive filenames. This script helps you organize and rename those files for easier management. It detects GoPro video files from specified paths, renames them with timestamps and a camera ID, and then copies them to a destination directory.
