@@ -26,7 +26,7 @@ To use this script:
 
 4. Run the script using the following command:
 
-   python gopro_saver.py
+   python cameraSaver.py
 
 5. Follow the prompts to select the appropriate device (camera ID) and confirm your choices.
 
